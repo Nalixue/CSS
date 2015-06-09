@@ -10,7 +10,7 @@ CSS  Resources
 - [The At-Rules of CSS](https://css-tricks.com/the-at-rules-of-css/) by @Geoff Graham
 - [ICONS AND TYPE](http://snook.ca/archives/html_and_css/icons-and-type) by [@Jonathan Snook](http://snook.ca/)
 - [HTML vs Body in CSS](https://css-tricks.com/html-vs-body-in-css/) by @Geoff Graham
-- [More Control over Text Decoration](https://css-tricks.com/more-control-over-text-decoration/) by [@Chris Coyier](https://css-tricks.com)
+- [More Control over Text Decoration](https://css-tricks.com/more-control-over-text-decoration/) by [@Chris Coyier](https://css-tricks.com)[已认领 by Minoz-那]
 - [Surviving CSS](https://medium.com/@cathy_dutton/surviving-css-be306ef3de6d) by [@cathy dutton](https://medium.com/@cathy_dutton)
 - [3 Things (Almost) No One Knows About CSS](http://www.sitepoint.com/3-things-almost-one-knows-css/)  by [@Kevin Yank](http://www.sitepoint.com/author/kevin-yank/)[已认领 by[@lizimeow](https://github.com/lizimeow)]
 - [Semantic HTML for Web Content](http://sixrevisions.com/html/semantic-html-web-content/) by [@Jacob Gube](http://twitter.com/sixrevisions)
