@@ -16,7 +16,7 @@ CSS  Resources
 - [Surviving CSS](https://medium.com/@cathy_dutton/surviving-css-be306ef3de6d) by [@cathy dutton](https://medium.com/@cathy_dutton)
 - [3 Things (Almost) No One Knows About CSS](http://www.sitepoint.com/3-things-almost-one-knows-css/)  by [@Kevin Yank](http://www.sitepoint.com/author/kevin-yank/)[已认领 by[@lizimeow](https://github.com/lizimeow)]
 - [Semantic HTML for Web Content](http://sixrevisions.com/html/semantic-html-web-content/) by [@Jacob Gube](http://twitter.com/sixrevisions)
-- [Left Half and Right Half Layout – Many Different Ways](https://css-tricks.com/left-and-right/) by @Geoff Graham
+- [Left Half and Right Half Layout – Many Different Ways](https://css-tricks.com/left-and-right/) by @Geoff Graham[已认领 by Minoz-那]
 - [COLORS IN CSS](http://hugogiraudel.com/2012/11/27/css-colors/) by [@Hugo](http://hugogiraudel.com/)
 - [CSS FONT SIZING](http://bitsofco.de/2015/css-font-sizing/) by [@Ire Aderinokun](http://www.ireaderinokun.com/)——[译文](http://www.w3cplus.com/css/css-font-sizing.html) by[晓婼](http://weibo.com/3315650703/)
 - [R.I.P. REM, Viva CSS Reference Pixel!](https://mindtheshift.wordpress.com/2015/04/02/r-i-p-rem-viva-css-reference-pixel/) by [@Gion Kunz](https://mindtheshift.wordpress.com/about/)——[译文](http://www.w3cplus.com/css/r-i-p-rem-viva-css-reference-pixel.html) by [@白粥](https://github.com/baizhou)
