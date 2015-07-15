@@ -3,7 +3,7 @@ CSS  Resources
 
 ### Basics
 
-- [What a CSS Code Review Might Look Like](https://css-tricks.com/what-a-css-code-review-might-look-like/) by [@Geoff Graham ](https://css-tricks.com/author/geoffreygrahamgmail-com/)(已认领By小红)
+- [What a CSS Code Review Might Look Like](https://css-tricks.com/what-a-css-code-review-might-look-like/) by [@Geoff Graham ](https://css-tricks.com/author/geoffreygrahamgmail-com/)(已认领By@小红)
 - [Understanding Block Formatting Contexts in CSS](http://www.sitepoint.com/understanding-block-formatting-contexts-in-css/) by [@](http://www.sitepoint.com/author/rkumar/)(已认领By@一半一半)
 - [Native CSS Scroll Snap Points](http://blog.gospodarets.com/css-scroll-snap/) by [@Sergey Gospodarets](http://blog.gospodarets.com/)
 - [Creating Realistic Text with CSS](http://blogs.adobe.com/dreamweaver/2015/06/creating-realistic-text-with-css.html) by [@Lucas Bebber](http://blogs.adobe.com/dreamweaver/author/lucas-bebber)
