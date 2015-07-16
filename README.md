@@ -3,6 +3,9 @@ CSS  Resources
 
 ### Basics
 
+- [Sizing (Web) components](https://medium.com/@simurai/sizing-web-components-8f433689736f) by [@simurai](https://medium.com/@simurai)
+- [Quantity Ordering With CSS](http://www.smashingmagazine.com/2015/07/14/quantity-ordering-with-css/) by [@Drew Minns](http://www.smashingmagazine.com/author/drewminns/)
+- [12 Little-Known CSS Facts (The Sequel)](http://www.sitepoint.com/12-little-known-css-facts-the-sequel/) by [@Louis Lazaris](http://www.sitepoint.com/author/louis-lazaris1/)
 - [What a CSS Code Review Might Look Like](https://css-tricks.com/what-a-css-code-review-might-look-like/) by [@Geoff Graham ](https://css-tricks.com/author/geoffreygrahamgmail-com/)(已认领By@小红)
 - [Understanding Block Formatting Contexts in CSS](http://www.sitepoint.com/understanding-block-formatting-contexts-in-css/) by [@](http://www.sitepoint.com/author/rkumar/)(已认领By@一半一半)
 - [Native CSS Scroll Snap Points](http://blog.gospodarets.com/css-scroll-snap/) by [@Sergey Gospodarets](http://blog.gospodarets.com/)
@@ -47,6 +50,7 @@ CSS  Resources
 
 ### CSS3
 
+- [Using the Web Speech API to simulate CSS Speech support](http://tink.uk/using-the-web-speech-api-to-simulate-css-speech-support/) by [@tink](https://twitter.com/LeonieWatson)
 - [Fixing Typography Inside of 2-D CSS Transforms](http://www.useragentman.com/blog/2014/05/04/fixing-typography-inside-of-2-d-css-transforms/) by [@Ramajero Argonauta](http://ksesocss.blogspot.com/)
 - [Understanding CSS Filter Effects](http://www.html5rocks.com/en/tutorials/filters/understanding-css/) by [@Alex Danilo](http://www.html5rocks.com/profiles/#alexdanilo)
 - [Understanding the CSS ‘content’ Property](http://www.sitepoint.com/understanding-css-content-property/) by [@Gajendar Singh](http://www.sitepoint.com/author/gsingh/)
