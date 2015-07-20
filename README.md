@@ -51,6 +51,7 @@ CSS  Resources
 
 ### CSS3
 
+- [Quantity Ordering With CSS](http://www.smashingmagazine.com/2015/07/14/quantity-ordering-with-css/) by [@Drew Minns](http://www.smashingmagazine.com/author/drewminns/)
 - [Using the Web Speech API to simulate CSS Speech support](http://tink.uk/using-the-web-speech-api-to-simulate-css-speech-support/) by [@tink](https://twitter.com/LeonieWatson)
 - [Fixing Typography Inside of 2-D CSS Transforms](http://www.useragentman.com/blog/2014/05/04/fixing-typography-inside-of-2-d-css-transforms/) by [@Ramajero Argonauta](http://ksesocss.blogspot.com/)
 - [Understanding CSS Filter Effects](http://www.html5rocks.com/en/tutorials/filters/understanding-css/) by [@Alex Danilo](http://www.html5rocks.com/profiles/#alexdanilo)
@@ -74,6 +75,8 @@ CSS  Resources
 
 ### Animation
 
+- [Perfecting a CSS 3D animation](https://subvisual.co/blog/posts/62-perfecting-a-css-3d-animation) by @Miguel Palhas
+- [Tenue CSS Text Effect](http://themes-pixeden.com/playground/text/tenue/) by [@Pixeden](http://pixeden.com/)
 - [Performant CSS Animations: Netflix Case Study](http://eng.wealthfront.com/2015/06/implementing-netflix-redesign.html) by [@Eli White](http://www.blogger.com/profile/11365234386587404375)
 - [CSS: Animation Using CSS Transforms](http://www.the-art-of-web.com/css/css-animation/)
 - [Practical Techniques On Designing Animation](http://www.smashingmagazine.com/2015/06/08/practical-techniques-on-designing-animation/) by [@Sarah Drasner](http://www.smashingmagazine.com/author/sarahdrasner/)
