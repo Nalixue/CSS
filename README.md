@@ -5,7 +5,6 @@ CSS  Resources
 
 - [What No One Told You About Z-Index](http://philipwalton.com/articles/what-no-one-told-you-about-z-index/)  by [@Philip Walton](http://philipwalton.com/)——[译文](http://www.w3cplus.com/css/what-no-one-told-you-about-z-index.html) By@[晓楷](http://helkyle.com)
 - [Sizing (Web) components](https://medium.com/@simurai/sizing-web-components-8f433689736f) by [@simurai](https://medium.com/@simurai)
-- [Quantity Ordering With CSS](http://www.smashingmagazine.com/2015/07/14/quantity-ordering-with-css/) by [@Drew Minns](http://www.smashingmagazine.com/author/drewminns/)
 - [12 Little-Known CSS Facts (The Sequel)](http://www.sitepoint.com/12-little-known-css-facts-the-sequel/) by [@Louis Lazaris](http://www.sitepoint.com/author/louis-lazaris1/)
 - [What a CSS Code Review Might Look Like](https://css-tricks.com/what-a-css-code-review-might-look-like/) by [@Geoff Graham ](https://css-tricks.com/author/geoffreygrahamgmail-com/)(已认领By@小红)
 - [Understanding Block Formatting Contexts in CSS](http://www.sitepoint.com/understanding-block-formatting-contexts-in-css/) by [@](http://www.sitepoint.com/author/rkumar/)(已认领By@一半一半)
